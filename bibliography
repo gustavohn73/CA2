@@ -4,4 +4,13 @@ SPLUNK TEAM (2022). Timeline in python [online] Splunktool.com Available at: htt
 
 Tim Herzog (2022). Wbgapi 1.0.12 documentation. [online] Pypi.org Available at: https://pypi.org/project/wbgapi/
 
+
+
+DATABASE:
 World Bank Group (n.d.). Data indicators documentation. [online] worldbank.org Available at: https://data.worldbank.org/indicator/
+
+Eurostat (2022). Intra-EU - most traded goods. [online] Europa.eu/Eurostat Available at: https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Intra-EU_-_most_traded_goods#Evolution_of_intra-EU_trade
+      data: https://ec.europa.eu/eurostat/web/international-trade-in-goods/data/database
+
+Agridata (2022). Agri-Food Markets. [online] Europa.eu/Agridata Available at: https://agridata.ec.europa.eu/extensions/DataPortal/agricultural_markets.html.
+      API: https://agridata.ec.europa.eu/extensions/DataPortal/API_Documentation.html
