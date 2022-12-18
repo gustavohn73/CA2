@@ -9,8 +9,23 @@ Tim Herzog (2022). Wbgapi 1.0.12 documentation. [online] Pypi.org Available at: 
 DATABASE:
 World Bank Group (n.d.). Data indicators documentation. [online] worldbank.org Available at: https://data.worldbank.org/indicator/
 
+Eurostat (2022). Performance of the agricultural sector. [online] Europa.eu/Eurostat Available at: https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Performance_of_the_agricultural_sector
+
 Eurostat (2022). Intra-EU - most traded goods. [online] Europa.eu/Eurostat Available at: https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Intra-EU_-_most_traded_goods#Evolution_of_intra-EU_trade
       data: https://ec.europa.eu/eurostat/web/international-trade-in-goods/data/database
 
 Agridata (2022). Agri-Food Markets. [online] Europa.eu/Agridata Available at: https://agridata.ec.europa.eu/extensions/DataPortal/agricultural_markets.html.
       API: https://agridata.ec.europa.eu/extensions/DataPortal/API_Documentation.html
+
+
+ML
+
+https://textblob.readthedocs.io/en/dev/quickstart.html
+
+Verma, Adarsh (2019) Keywords & Usernames Extraction From Tweets [Text Mining]. [online]  medium.com Available at: https://medium.com/deepdatascience/keywords-usernames-extraction-from-tweets-text-mining-8dfc4cb39872
+
+
+Sykora, M., Elayan, S., & Jackson, T. W. (2020). A qualitative analysis of sarcasm, irony and related #hashtags on Twitter. Big Data & Society, 7(2). https://doi.org/10.1177/2053951720972735
+
+Misra, Rishabh and Prahal Arora. "Sarcasm Detection using Hybrid Neural Network." arXiv preprint arXiv:1908.07414 (2019)
+Misra, Rishabh and Jigyasa Grover. "Sculpting Data for ML: The first act of Machine Learning." ISBN 9798585463570 (2021)
