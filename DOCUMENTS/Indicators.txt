@@ -1,0 +1,141 @@
+C.01 Population
+C.02 Age structure
+C.05 Employment rate
+C.06 Self-employment rate
+C.07 Unemployment rate
+C.08 GDP per capita
+C.09 Poverty rate
+C.10 Structure of the economy
+C.11 Structure of the employment
+C.12 Labour productivity by economic sector
+C.13 Employment by economic activity
+C.14 Labour productivity in agriculture
+C.15 Labour productivity in forestry
+C.18 Agricultural area
+C.19 Agricultural area under organic farming
+C.25 Agricultural factor income
+C.26 Agricultural entrepreneurial income
+C.28 Gross fixed capital formation in agriculture
+C.29 Forest and other wooded land (FOWL)
+C.33 Farming intensity
+C.34 Natura 2000 areas
+C.38 Protected forest
+C.43 Production of renewable energy from agriculture and forestry
+C.44 Energy use in agriculture, forestry and food industry
+C.47 Sales of antimicrobials in food producing animal
+C.48 Sales of plant protection products
+IMP_01 Agricultural entrepreneurial income
+IMP_02 Agricultural factor income
+IMP_05 Consumer price evolution of food products
+IMP_06 EU agricultural trade
+IMP_14 Rural employment rate
+IMP_15 Degree of rural poverty
+IMP_16 Rural GDP per capita
+OID_00 Direct payments (DP)
+OID_01 Basic Payment Scheme (BPS)
+OID_05 Greening
+OID_06  Greening exemptions
+OID_06 Greening exemptions
+OID_07 Crop diversification
+OID_08 Permanent grassland
+OID_09 Ecological Focus Areas (EFA)
+OID_11 Greening equivalence
+OID_12 Payment for young farmers
+OID_14 Voluntary coupled support
+OID_17 Direct payments 80-20 distribution
+OIH_00 Total CAP Expenditure
+OIH_01 Cross-compliance
+OIH_01_1a Cross-compliance
+OIH_03 Organic farming
+OIM_00 Market Expenditure
+OIM_01 Public intervention
+OIM_02 Private storage
+OIM_04 Exceptional measures
+OIM_05 Producer organisations
+OIM_06 School schemes
+OIR_00 Total Rural Development expenditure
+OIR_01 Total public expenditure
+OIR_03 Number of actions/operations supported
+OIR_04 Number of holdings/beneficiaries supported
+OIR_05 Total Area (ha)
+OIR_06 Physical area supported (ha)
+OIR_07 Number of contracts supported (ha)
+OIR_08 Number of Livestock Units supported (LU)
+OIR_09 Number of holdings participating in supported schemes
+OIR_11 Number of training days given
+OIR_12 Number of participants in trainings
+OIR_13 Number of beneficiaries advises
+OIR_14 Number of advisors trained
+OIR_15 Population benefiting from improved services/infrastructures (Non ICT operations/broadband and other ICT )
+OIR_16 Number of EIP operations supported, number of EIP operations supported and number and type of partners in EIP groups
+OIR_17 Number of cooperation operations supported (other than EIP)
+OIR_18 Population covered by LAG
+OIR_19 Identification number of LAG
+OIR_20 Number of LEADER projects supported
+OIR_21 Number of cooperation projects supported
+OIR_22 Number and type of project promotors
+OIR_23 Unique number of LAG involved in cooperation projects
+OIR_24 Number of thematic and analystic exchanges set up with the support of NRN
+OIR_25 Number of NRN communication tools
+OIR_26 Number of ENRD activities in which the NRN has participated
+OIR_27 Beneficiaries of first and second pillar payments
+OIR_28 Share of EAFRD contribution reserved for environment and climate
+R.01 Percentage of agricultural holdings with RDP support for investments in restructuring or modernisation (focus area 2A)
+R.03 Percentage of agricultural holdings with RDP supported business development plan/investments for young farmers (focus area 2B)
+R.04 Percentage of agricultural holdings receiving support for participating in quality schemes, local markets and short supply circuits, and producer groups/organisations (focus area 3A)
+R.06 Percentage forest or other wooded area under management contracts supporting biodiversity (focus area 4A)
+R.07 Percentage agricultural land under management contracts supporting biodiversity and/or landscapes (focus area 4A)
+R.08 Percentage of agricultural land under management contracts to improve water management (focus area 4B)
+R.09 Percentage of forestry land under management contracts to improve water management (focus area 4B)
+R.10 Percentage of agricultural land under management contracts to improve soil management and/or prevent soil erosion (focus area 4C)
+R.11 Percentage of forestry land under management contracts to improve soil management and/or prevent soil erosion (focus area 4C)
+R.16 Percentage of LU (Live-stock Unit) concerned by investments in live-stock management in view of reducing GHG (Green House Gas) and/or ammonia emissions (focus area 5D)
+R.17 Percentage of agricultural land under management contracts targeting reduction of GHG and/or ammonia emissions (focus area 5D)
+R.20 Percentage of agricultural and forest land under management contracts contributing to carbon sequestration or conservation (focus area 5E)
+R.21 Jobs created in supported projects (focus area 6A)
+R.22 Percentage of rural population covered by local development strategies (focus area 6B)
+R.24 Jobs created in supported projects (Leader) (focus area 6B)
+RPI_01 Share of direct support in agricultural income
+RPI_03 Value for primary producers in the food chain
+RPI_04 EU agricultural trade
+RPI_10 Importance organic farming
+RPI_12 Share of grassland in total UAA
+RPI_13 Share of EFA in arable land
+RPI_14 Share of area under greening practices
+C.04 Population density
+C.16 Labour productivity in the food industry
+C.27 Total factor productivity in agriculture
+C.30 Tourism infrastructure
+C.32 Areas with natural constraints
+C.40 Water quality
+C.45 Emissions from agriculture
+C.48 Plant protection products harmonised risk indicator
+IMP_03 Total factor productivity in agriculture
+IMP_07 Emissions from agriculture
+IMP_11 Water quality
+OIH_02 Quality policy
+OIH_04 Promotion policy
+OIM_03 Export refunds
+RPI_02 Variability of farm income
+RPI_05 Public intervention
+RPI_06 Private Storage
+RPI_07 Export refunds
+RPI_15 Net greenhouse gas emissions from agriculture (including cropland and grassland)
+C.31 Land cover
+C.36 Conservation status of agricultural habitats (grassland)
+C.03 Territory
+C.17 Agricultural holdings (farms)
+C.20 Irrigated land
+C.21 Livestock units
+C.22 Farm labour force
+C.23 Age structure of farm managers
+C.24 Agricultural training of farm managers
+C.35 Farmland birds index (FBI)
+C.42 Soil erosion by water
+IMP_08 Farmland bird index
+IMP_13 Soil erosion by water
+RPI_11 Crop diversity
+RPI_16 Structural diversity
+C.41 Soil organic matter in arable land
+IMP_12 Soil organic matter in arable land
+OID_10 Ecological Focus Areas (EFA) - Collective and Regional
